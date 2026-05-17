@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name": "Bellzza Beauty & Wellness",
+    "tagline": "An established beauty & wellness centre since 2014.",
+    "category": "Beauty, cosmetic & personal care / Health/beauty",
+    "location": "Kota Kinabalu, Sabah, Malaysia",
+    "address": "No.3&4, Block L Metro Town, Kota Kinabalu, Malaysia",
+    "phone": "016-811 8080",
+    "phone_international": "+60 16-811 8080",
+    "email": "Bellzzabeauty2014z@gmail.com",
+    "instagram": "@bellzzabeauty",
+    "facebook_url": "https://facebook.com/share/1AN2NMxZA8/",
+    "followers": "2.8K",
+    "since": 2014,
+    "status": "Closed now (Reservations available)",
+    "recent_post": "Your beauty journey starts with one appointment",
+    "services": [
+      "Beauty treatments",
+      "Wellness services",
+      "Skincare",
+      "Beauty & personal care"
+    ]
+  },
+  "brand": {
+    "industry": "beauty_wellness",
+    "style": "elegant_feminine",
+    "design_templates": ["notion", "linear-app", "stripe"],
+    "color_scheme": "warm_rose_gold"
+  },
+  "images": {
+    "logo": "images/logo.jpg",
+    "cover": "images/cover.jpg",
+    "gallery_dir": "images/gallery/"
+  }
+}
